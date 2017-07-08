@@ -50,13 +50,13 @@ return [
     ],
 
     'signup' => [
-        'title' => 'Identifique-se',
-        'subtitle' => 'Faça o seu login',
+        'title' => 'Criar conta no CombatsForce',
+        'subtitle' => 'Bem vindo ao CombatsForce',
         'email' => 'E-mail',
         'password' => 'Senha',
         'enter' => 'Entrar',
         'remember' => 'Esqueceu sua senha?',
-        'signup' => 'Criar uma nova conta',
+        'back' => 'Voltar ao login',
     ],
 
     'errors' => [
