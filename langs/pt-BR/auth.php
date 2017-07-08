@@ -61,6 +61,7 @@ return [
         'back' => 'Voltar ao login',
         'messages' => [
             'signuped' => 'Conta criada, verifique o seu e-mail para continuar',
+            'actived' => 'Sua conta foi ativada com sucesso, entre e bom jogo',
         ],
     ],
 
