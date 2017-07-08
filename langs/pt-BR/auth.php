@@ -57,7 +57,7 @@ return [
         'password' => 'Senha',
         'confirm' => 'Repita a sua senha',
         'enter' => 'Criar conta',
-        'terms' => 'Eu os aceito os <a href=":link">termos e regras</a> do combatsforce',
+        'terms' => 'Eu aceito os <a href=":link">termos e regras</a> do jogo',
         'back' => 'Voltar ao login',
     ],
 
