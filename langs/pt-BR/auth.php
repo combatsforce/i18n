@@ -52,10 +52,12 @@ return [
     'signup' => [
         'title' => 'Criar conta no CombatsForce',
         'subtitle' => 'Bem vindo ao CombatsForce',
-        'email' => 'E-mail',
+        'email' => 'Seu e-mail',
+        'name' => 'Seu nome',
         'password' => 'Senha',
-        'enter' => 'Entrar',
-        'remember' => 'Esqueceu sua senha?',
+        'confirm' => 'Repita a sua senha',
+        'enter' => 'Criar conta',
+        'terms' => 'Eu os aceito os <a href=":link">termos e regras</a> do combatsforce',
         'back' => 'Voltar ao login',
     ],
 
