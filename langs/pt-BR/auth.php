@@ -59,6 +59,9 @@ return [
         'enter' => 'Criar conta',
         'terms' => 'Eu aceito os <a href=":link">termos e regras</a> do jogo',
         'back' => 'Voltar ao login',
+        'messages' => [
+            'signuped' => 'Conta criada, verifique o seu e-mail para continuar',
+        ],
     ],
 
     'errors' => [
