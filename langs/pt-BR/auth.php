@@ -67,7 +67,7 @@ return [
     'errors' => [
         'login' => 'Usuário ou senha incorreta',
         'user-notfound' => 'Usuário não encontrado',
-        'user-disabled' => 'Usuário sem permissão para acessar o sistema',
+        'user-disabled' => 'Usuário sem permissão para acessar o jogo, verifique seu e-mail para ativar sua conta',
         'no-change-pass' => 'Sem permissão para trocar a senha',
         'no-email-template' => 'Modelo de e-mail password não foi implementado',
     ],
