@@ -1,0 +1,23 @@
+{
+    "name"       : "combatsforce/i18n",
+    "description": "The CombatsForce Internationalization.",
+    "keywords"   : ["gamesforge", "combatsforce", "internationalization", "i18n"],
+    "license"    : "GPL v.3",
+    "homepage"   : "http://combatsforce.com",
+
+    "authors": [
+        {
+            "name" : "Bruno Gonçalves",
+            "email": "bugotech@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "CombatsForce\\i18n\\": "/"
+        }
+    },
+
+    "minimum-stability": "dev",
+    "prefer-stable"    : true
+}
