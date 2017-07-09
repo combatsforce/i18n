@@ -1,6 +1,8 @@
 <?php
 
 return [
+    'first' => 'Primeiro batalhão',
+
     'new' => [
         'title' => 'Criar novo batalhão',
         'subtitle' => 'Vamos criar um novo batalhão?',
