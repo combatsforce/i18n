@@ -5,7 +5,7 @@ return [
     'maker-title' => 'Construções',
 
     'mainroom' => [
-        'name' => 'Sala da administração',
-        'description' => 'Na sala de administração é onde você pode controlar e gerenciar outros edifícios de seu batalhão.',
+        'name' => 'Edifício principal',
+        'description' => 'No edifício principal é onde você pode controlar e gerenciar outros edifícios de seu batalhão.',
     ],
 ];
