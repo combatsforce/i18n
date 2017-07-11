@@ -2,6 +2,7 @@
 
 return [
     'first' => 'Primeiro batalhão',
+    'abandoned' => 'Batalhão abandonado',
 
     'new' => [
         'title' => 'Criar novo batalhão',
