@@ -2,6 +2,7 @@
 
 return [
     'injob-description' => 'Construir :build...',
+    'maker-title' => 'Construções',
 
     'mainroom' => [
         'name' => 'Sala da administração',
